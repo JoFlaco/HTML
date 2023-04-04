@@ -1,0 +1,35 @@
+.navbar{
+background: salmon;
+padding: 10px 30px;
+color: white;
+display: inline-block;
+text-decoration: none;
+}
+
+.navbar:hover{
+    background: gray;
+}
+
+.titulo{
+    color: white;
+}
+
+body{
+    background: black;
+}
+
+.imagen{
+  width:300px;
+  height:300px;
+}
+
+.imagen2{
+  width:600px;
+  height:300px;
+  float: left;
+
+}
+
+.texto{
+    color: white;
+}
